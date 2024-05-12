@@ -33,6 +33,7 @@ A web application built using MERN stack.
 # Interface of the Web Application
 
 # Login Page
+
 <img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/703cf7f4-7f63-456d-a58d-2017113f32cb">
 
 # Register Page
