@@ -39,7 +39,7 @@ A web application built using MERN stack.
 <img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/2da24721-d3bd-4fd7-a0b3-97fce836961d">
 
 # Home Page (before logging in)
-<img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/44b89524-5ac3-4272-9e3f-a793b6fdbcad">
+<img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/5c5b78fa-ed23-492a-9a0b-2ac14d349991">
 <img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/4edfd8fe-b444-4ede-b534-1505bb0baaaf">
 <img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/d4a3cce1-f2bc-44ff-b2b8-72473f714993">
 
