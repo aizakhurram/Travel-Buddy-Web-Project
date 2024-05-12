@@ -54,6 +54,10 @@ Once the user is logged in, more options are displayed on the nav bar that the u
 
 # Trips page
 it displays the trips created by the logged in user.
+User can delete the created trip by clicking on the icon (red bin)
+
+<img width="1636" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/f733e0cd-e477-4c36-8add-5064745b0306">
+
 
 # Search for Trips (based on destination and starting and ending dates)
 <img width="1636" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/5ce9677f-ef46-4af2-829e-59e0a44ab633">
