@@ -1,0 +1,117 @@
+
+/* CreateTrip.scss */
+/* CreateTrip.scss */
+.card-container {
+  display: flex;
+  width: 100vh; /* Adjust as needed */
+  margin: 0 auto;
+  padding: 30px; /* Adjust as needed */
+  margin-top: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-left: 50%;
+  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.image-container {
+  flex: 1;
+
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-right: 55%; /* Adjust as needed */
+  background-image: url("../images/form3.jpg");
+  background-size: cover; 
+  background-position: center;
+
+}
+
+
+.create-trip-container {
+  width: 80vh; /* Adjust as needed */
+  padding: 10px;
+  
+}
+
+.image-container h2 {
+  position: absolute;
+  top: 50%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  color: #ffffff;
+  
+  font-style: normal;
+  
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.form-container {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.create-trip-form {
+  width: 100%;
+  margin-top: 10px;
+  
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-left: 20px; /* Full width */
+  max-width: 800px; /* Limit maximum width */
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+   font-style: bold;
+  
+ 
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #000000;
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 70px;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: darkslategrey;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 70%;
+  text-align: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 20%;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: rgb(68, 127, 127);
+}

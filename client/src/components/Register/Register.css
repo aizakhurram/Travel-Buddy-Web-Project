@@ -1,0 +1,43 @@
+form {
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 1.2rem;
+    
+   
+    .form-control {
+      background-color: #fffcfcb9;
+    }
+    .form-text {
+      color: rgb(252, 252, 252);
+     
+    } 
+    .form-label {
+      color: rgb(255, 255, 255);
+      
+    } 
+    .btn-primary{
+         align-items: center;
+         margin-top: 10px;
+        width: 30%;
+        background-color: #1c3c3a ;
+        border-color: #1c3c3a;
+        justify-content: center;
+        align-self: center;
+       
+       
+    }
+  }
+  
+  .background {
+    background-image: url('../images/4.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Set to viewport height to cover the entire screen */
+    background-size: cover; 
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  

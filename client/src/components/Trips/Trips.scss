@@ -1,0 +1,55 @@
+.trips-container {
+    margin: 20px;
+  }
+  
+  .trips-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .trips-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .trip-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    .icons {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-bottom: 20px;
+      i {
+        color: rgba(255, 0, 0, 0.571);
+        font-size: 1.2rem;
+      }
+      i:hover {
+        color: red;
+        cursor: pointer;
+      }
+    }
+  }
+  
+  .trip-name {
+    font-weight: bold;
+  }
+  
+  .trip-destination {
+    color: #666;
+  }
+  
+  .trip-date {
+    font-style: italic;
+  }
+  
+  .trip-cost {
+    font-weight: bold;
+  }
+  
+  .trip-description {
+    color: #888;
+  }
+  

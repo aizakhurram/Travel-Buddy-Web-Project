@@ -1,0 +1,47 @@
+.invitations-list-container {
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #0000003f;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .invitations-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .invitation-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    .icons {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-bottom: 20px;
+      i {
+        color: rgba(255, 0, 0, 0.571);
+        font-size: 1.2rem;
+      }
+      i:hover {
+        color: red;
+        cursor: pointer;
+      }
+    }
+  }
+ 
+  
+  .invitation-item p {
+    margin: 5px 0;
+  }
+  
+  .invitation-item p:first-child {
+    font-weight: bold;
+  }
+  
