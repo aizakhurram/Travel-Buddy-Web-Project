@@ -2,7 +2,7 @@
 
 A web application built using MERN stack. 
 
-<img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/5c5b78fa-ed23-492a-9a0b-2ac14d349991"><img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/ccb88810-b808-46ba-9591-80361719ddd9">
+<img width="1668" alt="image" src="https://github.com/aizakhurram/Travel-Buddy-Web-Project/assets/102323528/5c5b78fa-ed23-492a-9a0b-2ac14d349991">
 
 # Features 
 1. User can login/register with full security as jswebtoken is used to encode the password and then save it in the db
